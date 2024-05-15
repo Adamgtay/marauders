@@ -1,6 +1,6 @@
 # Marauders: Shadow Syndicates
 
-In Marauders: Shadow Syndicates, players take on the roles of cunning smugglers operating in a steampunk-infused Victorian London. This game combines strategy, resource management, and risk-taking as players navigate the treacherous streets and underground passages of the city.
+In Marauders: Shadow Syndicates, players take on the roles of cunning smugglers operating in an alternate Victorian London. This game combines strategy, resource management, and risk-taking as players navigate the treacherous streets and underground passages of the city.
 
 ## Game Overview
 
